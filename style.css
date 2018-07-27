@@ -1,0 +1,52 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'FonteLogo';
+    src: url("myriad-pro-8.otf");
+}
+
+p {
+    text-align: center;
+}
+
+p#esqsenha {
+    text-align: left;
+    margin-top: 2px;
+    font-size: 12pt;
+}
+
+fieldset {
+    text-align: center;
+    background-color: white;
+    color: #cb4c78;
+    border: 1px solid;
+    border-radius: 1em;
+}
+
+form {
+    margin: auto;
+    width: 500px;
+    font-family: 'FonteLogo';
+    margin-top: 220px;
+    font-size: 20pt;
+}
+
+input {
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 1em;
+    padding: 10px;
+    font-family: 'FonteLogo';
+    font-size: 14pt;
+}
+
+input#tEnt {
+    background-color: #cb4c78;
+    color: white;
+    border: 1px solid;
+    font-size: 20pt;
+}
+
+body {
+    background: url("logo4720.png") no-repeat 99% 205%;
+    background-color: #cb4c78;
+    color: white;
+}
