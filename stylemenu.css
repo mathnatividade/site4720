@@ -11,7 +11,7 @@ body {
 #menu {
   display: block;
   width: 405px;
-  height: 870px;
+  height: 830px;
   float: left;
   border-bottom: 5px solid;
   padding-right: 15px;
@@ -55,12 +55,13 @@ body {
 .submenu li {
   margin-left: 80px;
   font-size: 16pt;
+  cursor: pointer;
 }
 
 #infos {
   display: block;
   width: 1467px;
-  height: 870px;
+  height: 830px;
   float: right;
   background-color: white;
   border-bottom: 5px solid white;
@@ -102,4 +103,11 @@ body {
 #rodape a {
   text-decoration: none;
   color: white;
+}
+
+aside#infos {
+    text-align: center;
+    font-size: 30pt;
+    font-family: FonteLogo;
+    color: #1d1a73;
 }
