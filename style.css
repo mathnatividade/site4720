@@ -12,6 +12,7 @@ p#esqsenha {
     text-align: left;
     margin-top: 2px;
     font-size: 12pt;
+    cursor: pointer;
 }
 
 fieldset {
@@ -43,10 +44,11 @@ input#tEnt {
     color: white;
     border: 1px solid;
     font-size: 20pt;
+    cursor: pointer;
 }
 
 body {
     background: url("logo4720.png") no-repeat 99% 205%;
     background-color: #cb4c78;
-    color: white;
+    color: #ffffff;
 }
