@@ -109,5 +109,6 @@ aside#infos {
     text-align: center;
     font-size: 30pt;
     font-family: FonteLogo;
-    color: #1d1a73;
+    color: #ffffff;
+    background: url("BACKGROUND ORGANIZADO.png") no-repeat ;
 }
