@@ -28,6 +28,7 @@ body {
 
 #cabecalho h1 {
   margin-left: 80px;
+  cursor: default;
 }
 
 .item {
@@ -81,6 +82,7 @@ body {
   font-family: 'FonteLogo';
   color: white;
   font-size: 12pt;
+  cursor: default;
 }
 
 #bemvi {
@@ -92,6 +94,7 @@ body {
   font-family: 'FonteLogo';
   color: white;
   font-size: 12pt;
+  cursor: default;
 }
 
 #rodape p {
